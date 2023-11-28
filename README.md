@@ -3,8 +3,8 @@
 
 
   - [Vulnerability Management Lab With Alien Vault & Nessus](https://github.com/joshmadakor1/Algorithms-Practice)
-
-
+ - [GRC Lab NIST 800-53 Compliance Audit & Risk Assessment](https://youtu.be/MP3BnWQBvyQ)    
+ - [GRC Lab PCI-DSS Windows Configuration Review](https://youtu.be/8TggsY0qof0)
 <h2>📺 Popular YouTube Videos</h2>
 
 - [WHAT is PCI DSS](https://www.youtube.com/watch?v=a83ASGn_V_s)

@@ -1,5 +1,4 @@
-<h1>Hi, I'm Alex! <br/><a href="https://github.com/joshmadakor1">PCI-DSS Specialist</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Vulnerability Management Analyst</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
-
+<h1>Hi, I'm Alex! <br/><a href="https://github.com/agbolden/alexcybertest">GRC Professional</a>, <a href="https://www.linkedin.com/in/alexanderbolden/">Vulnerability Management Analyst</a>, <a href="https://www.youtube.com/channel/UCv1a2Up5nfDACQNdAPVAqsw">YouTuber</a></h1>
 <h2>👨‍💻 Cybersecurity and Vulnerability Management Projects:</h2>
 
 
